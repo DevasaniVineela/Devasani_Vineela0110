@@ -45,38 +45,6 @@ Git
 
 ---
 
-## 🚀 Projects
-
-### Enhanced Tourism Data Platform
-Machine learning recommendation system for tourist destinations.
-
-Tech Used:
-Python, Streamlit, Pandas, NumPy, Scikit-learn
-
-🔗 Repo:  
-https://github.com/DevasaniVineela/Enhanced-Tourism-Data-Platform
-
----
-
-### Handwritten Digit Recognition
-CNN model trained on MNIST dataset.
-
-Tech Used:
-Python, TensorFlow, Keras, OpenCV
-
----
-
-### Online Bookstore Web Application
-A web application for browsing and purchasing books.
-
-Tech Used:
-Python, HTML, CSS
-
-🔗 Repo:  
-https://github.com/DevasaniVineela/Online-Bookstore
-
----
-
 ## 📜 Certifications
 
 ### Oracle
@@ -101,26 +69,5 @@ https://github.com/DevasaniVineela/Online-Bookstore
 
 ---
 
-## 📊 GitHub Stats
-
-![Vineela's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevasaniVineela&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevasaniVineela&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-📧 23rh1a1216@mrecw.edu.in  
-📧 vineeladevasani2005@gmail.com  
-
-🔗 GitHub  
-https://github.com/DevasaniVineela
-
----
 
 ⭐ *Always learning. Always building.*
